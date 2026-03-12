@@ -82,3 +82,69 @@ AI API rate limits
 Dependence on external AI services
 
 Performance limitations of local AI models
+
+MoSCoW Prioritization
+Must Have
+
+AI flashcard generation from topic
+
+Topic input field
+
+Flashcard display interface
+
+Selection of AI provider
+
+Flashcard question and answer structure
+
+Should Have
+
+Quiz generation from flashcards
+
+CSV export functionality
+
+PDF export functionality
+
+Loading indicator while generating flashcards
+
+Could Have
+
+Batch topic generation from files
+
+Dark mode UI
+
+Copy flashcards to clipboard
+
+Flashcard animations
+
+Won't Have (for now)
+
+User authentication
+
+Cloud storage of flashcards
+
+User analytics dashboard
+
+Collaborative flashcard sharing
+
+Branching Strategy
+
+This project follows the GitHub Flow workflow.
+
+Workflow:
+
+The main branch contains the stable production code.
+
+New features are developed in separate feature branches.
+
+Feature branches are merged into main using Pull Requests.
+
+Quick Start – Local Development
+Prerequisites
+
+Install the following tools:
+
+Python 3.10+
+
+Docker
+
+Git
