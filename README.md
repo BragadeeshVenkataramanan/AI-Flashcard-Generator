@@ -1,7 +1,7 @@
 Vision Document
-Project Name
 
-FlashcardAI – AI Powered Flashcard Generator
+
+Project Name: FlashcardAI – AI Powered Flashcard Generator
 
 Project Overview
 
