@@ -148,3 +148,10 @@ Python 3.10+
 Docker
 
 Git
+
+## System Architecture
+
+The system follows a layered architecture where the frontend communicates with a Flask backend that interacts with AI services to generate flashcards.
+
+![System Architecture](architecture.png)
+
