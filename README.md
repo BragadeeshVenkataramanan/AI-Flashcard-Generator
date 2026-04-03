@@ -155,3 +155,20 @@ The system follows a layered architecture where the frontend communicates with a
 
 ![System Architecture](architecture.png)
 
+
+
+##Software Design Document
+### Architecture Diagram
+
+The system follows a client-server architecture where the frontend communicates with a Flask backend, which interacts with AI services to generate flashcards.
+<img width="756" height="1134" alt="image" src="https://github.com/user-attachments/assets/4807c44e-ef9a-42ff-b10b-133b24da2740" />
+
+
+
+
+### UI Design
+
+The user interface is designed to be simple, interactive, and responsive. Below are the key screens of the application:
+<img width="859" height="1289" alt="image" src="https://github.com/user-attachments/assets/361c5430-4a7a-47aa-9c16-9189aa7ac77a" />
+
+
